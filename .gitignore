@@ -3,6 +3,10 @@
 #--------------------------#
 
 /app/etc/local.xml
-/media/*
+/pub/*
 /var/*
+/vendor/*
+*.zip
+*.gzip
+*.sql
 
